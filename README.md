@@ -1,4 +1,4 @@
-# 📘 HARBENCH USER MANUAL — English Version
+# 📘 HBBENCH USER MANUAL — English Version
 ## Harbour Benchmark Suite v1.0
 
 ---
@@ -530,7 +530,7 @@ hbbench.exe --nolog --noenv --loops=500000
 
 ---
 
-# 📘 MANUAL DE USUARIO DE HARBENCH — Versión en Español
+# 📘 MANUAL DE USUARIO DE HBBENCH — Versión en Español
 ## Harbour Benchmark Suite v1.0 Edición Industrial
 
 ---
